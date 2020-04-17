@@ -30,10 +30,10 @@ This project uses a backend server that is maintained separately by Udacity and 
 
 ## Screens
 
-<img src="/src/utils/icons/screen1.PNG" width="700">
+<img src="/src/utils/icons/screen1.PNG" width="1000">
 
-<img src="/src/utils/icons/screen2.PNG" width="700">
+<img src="/src/utils/icons/screen2.PNG" width="1000">
 
-<img src="/src/utils/icons/screen3.PNG" width="700">
+<img src="/src/utils/icons/screen3.PNG" width="1000">
 
-<img src="/src/utils/icons/screen4.PNG" width="700">
+<img src="/src/utils/icons/screen4.PNG" width="1000">
