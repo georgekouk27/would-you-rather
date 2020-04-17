@@ -4,9 +4,10 @@ This is the Would you rather project for the Udacity React Scholarship.
 
 ## Basic Functionality
 * Login with a user to play.
-* Answer a question and see your answers.
-* Create a new question available for all users.
-* See leader board score for all users.
+* Vote on questions posted by other users.
+* See your votes.
+* Post a new question available for all users to vote.
+* See leader board score with all users.
 
 ## TL;DR
 
