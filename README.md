@@ -26,3 +26,14 @@ This project uses a backend server that is maintained separately by Udacity and 
 * [`getInitialData`](#getInitialData)
 * [`_saveQuestion`](#_saveQuestion)
 * [`_saveQuestionAnswer`](#_saveQuestionAnswer)
+
+
+## Screens
+
+<img src="/src/utils/icons/screen1.png" width="500">
+
+<img src="/src/utils/icons/screen2.png" width="500">
+
+<img src="/src/utils/icons/screen3.png" width="500">
+
+<img src="/src/utils/icons/screen4.png" width="500">
