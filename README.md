@@ -12,7 +12,7 @@ This is the Would you rather project for the Udacity React Scholarship.
 
 To get started developing right away:
 
-* https://github.com/georgekouk27/would-you-rather.git
+* git clone https://github.com/georgekouk27/would-you-rather.git
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
