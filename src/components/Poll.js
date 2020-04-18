@@ -137,9 +137,9 @@ class Poll extends Component {
 
 function mapStateToProps({authedUser, questions, users}, {match}) {
     if(questions[match.params.question_id] === undefined) {
-        const hasError = true;
+        const isError = true;
         return {
-            hasError
+            isError
         }
     }
   
